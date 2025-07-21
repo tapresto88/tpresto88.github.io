@@ -30,7 +30,7 @@ Python, Pandas, Scikit-Learn, Random Forest, Seaborn, Matplotlib
 - Achieved RMSE of \$139M and 78% classification accuracy
 - Budget and release year were top predictors of success
 
-🔗 [View the full GitHub repo](https://github.com/tapresto88.github.io/movie-success-prediction)
+🔗 [View the code in this repo](https://github.com/tapresto88/tpresto88.github.io/movie-success-prediction)
 
 ---
 
@@ -48,7 +48,7 @@ Python, Pandas, Matplotlib, Seaborn
 - Found strong correlations between salary and points, assists, and total rebounds
 - Highlighted top-paid players by season and analyzed possible over/underpaid cases
 
-🔗 [View the full GitHub repo](https://github.com/tapresto88.github.io/nba-salary-analysis)
+🔗 [View code in this repo](https://github.com/tapresto88/tpresto88.github.io/nba-salary-analysis)
 
 ---
 
