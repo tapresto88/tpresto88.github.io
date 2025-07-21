@@ -56,4 +56,4 @@ Python, Pandas, Matplotlib, Seaborn
 
 - 📧 Email: tpresto88@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/thomas-preston-8a82022ab/](https://linkedin.com/in/thomas-preston-8a82022ab/) 
-- 🐙 GitHub: [github.com/tapresto88.github.io](https://github.com/tapresto88.github.io)
+- 🐙 GitHub: [github.com/tapresto88](https://github.com/tapresto88)
