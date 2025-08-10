@@ -16,6 +16,23 @@ Outside of data, I spend my time rock climbing, hiking, skiing, and planning adv
 
 ## 🎬 Projects
 
+### 🏥 Early Prediction of Sepsis in ICU Patients
+
+**Overview:**  
+Built machine learning models to predict the onset of sepsis using hourly ICU vitals and lab results, with the goal of alerting clinicians before symptoms escalate.
+
+**Technologies:**  
+Python, Pandas, Scikit-learn, XGBoost, TensorFlow/Keras (LSTM), Matplotlib, Seaborn
+
+**Highlights:**
+- Preprocessed and normalized time-series ICU data from the PhysioNet Sepsis Challenge  
+- Conducted exploratory analysis showing vital trends for septic vs. non-septic patients  
+- Compared Logistic Regression, XGBoost, and LSTM — **LSTM achieved the highest AUC (0.82)**  
+- Key predictors: ↑Respiratory Rate, ↑Heart Rate, ↓Oxygen Saturation
+
+🔗 [View the code in this repo](https://github.com/tapresto88/tpresto88.github.io)
+
+
 ### 🎞️ Predicting Movie Box Office Success
 
 **Overview:** 
